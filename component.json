@@ -1,0 +1,12 @@
+{
+    "name": "gallery",
+    "description": "gallery component",
+    "styles": ["css/blueimp-gallery.min.css"],
+    "scripts": ["js/jquery.blueimp-gallery.min.js"],
+    "images": [
+        "img/error.png",
+        "img/loading.git",
+        "img/play-pause.png",
+        "img/video-play.png"
+    ]
+}
