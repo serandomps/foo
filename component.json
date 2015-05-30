@@ -1,6 +1,7 @@
 {
     "name": "gallery",
     "description": "gallery component",
+    "main": "js/jquery.blueimp-gallery.min.js",
     "styles": ["css/blueimp-gallery.min.css"],
     "scripts": ["js/jquery.blueimp-gallery.min.js"],
     "images": [
