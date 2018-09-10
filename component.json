@@ -6,6 +6,7 @@
     "scripts": ["js/jquery.blueimp-gallery.min.js"],
     "images": [
         "img/error.png",
+        "img/error.svg",
         "img/loading.gif",
         "img/play-pause.png",
         "img/play-pause.svg",
